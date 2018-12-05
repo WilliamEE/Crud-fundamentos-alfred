@@ -1,0 +1,14 @@
+{
+  "name": "crud-fundamentos",
+  "version": "1.0.0",
+  "description": "Proyecto de fundamentacion javascript",
+  "main": "index.js",
+  "repository": "https://github.com/WilliamEE/Crud-fundamentos-alfred.git",
+  "author": "WilliamEE <williamrm.96@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.14"
+  }
+}
